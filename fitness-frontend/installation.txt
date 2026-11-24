@@ -1,0 +1,14 @@
+first create project
+npm create vite@latest      
+
+install redux toolkit
+npm install @reduxjs/toolkit
+
+install react-redux
+npm install react-redux
+
+install react-router
+npm install react-router
+
+install material ui
+npm install @mui/material @emotion/react @emotion/styled

@@ -1,0 +1,7 @@
+-- first pull kafka image
+docker pull apache/kafka:4.0.0
+
+-- run kafka image
+docker run -d -p 9092:9092 apache/kafka:4.0.0
+
+
